@@ -9,7 +9,8 @@ MyReads é um aplicativo de estante que permite ao usuário selecionar e categor
 Iniciando o projeto
 essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
-Pre-requisitos
+Pre-requisitos  
+
 O projeto pode ser instalado com npm ou yarn, então escolha uma das opções abaixo caso você não tenha nenhum instalado em seu sistema.
 
 O NPM é distribuído com o Node.js, o que significa que quando você faz o download do Node.js, você obtém automaticamente o npm instalado
