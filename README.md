@@ -26,12 +26,14 @@ cd myreads
 
 Then install dependencies and run:
 
-yarn install
+yarn install  
+
 yarn start
 
 or
 
-npm install
+npm install  
+
 npm run start
 
 Versions
