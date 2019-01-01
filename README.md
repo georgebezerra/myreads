@@ -5,7 +5,13 @@ parte do Programa React Nanodegree.
   Link: https://georgebezerra.github.io/myreads/
 
 MyReads é um aplicativo de estante que permite ao usuário selecionar e categorizar livros que leu, está lendo no momento ou deseja ler.
+  
+Este aplicativo foi criado:  
 
+* React  
+* React-icons  
+* React Router  
+ 
 Iniciando o projeto
 essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
