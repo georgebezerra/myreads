@@ -7,7 +7,7 @@ parte do Programa React Nanodegree.
 MyReads é um aplicativo de estante que permite ao usuário selecionar e categorizar livros que leu, está lendo no momento ou deseja ler.
 
 Iniciando o projeto
-Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
+essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
 Pre-requisitos
 O projeto pode ser instalado com npm ou yarn, então escolha uma das opções abaixo caso você não tenha nenhum instalado em seu sistema.
