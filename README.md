@@ -20,7 +20,8 @@ https://yarnpkg.com/en/docs/install#debian-stable
 Instalação
 Faça o donwload do projeto e sigas as instruções abaixo:
 
-git clone https://github.com/georgebezerra/myreads
+git clone https://github.com/georgebezerra/myreads  
+
 cd myreads
 
 Then install dependencies and run:
