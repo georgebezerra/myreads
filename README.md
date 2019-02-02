@@ -8,6 +8,8 @@ parte do Programa React Nanodegree.
   
   # Demo 
   
+  ![Myreads](https://github.com/georgebezerra/reactnd-project-myreads/blob/master/src/icons/myreads.gif)
+  
   Link: http://reactnd-project-myread.surge.sh/
 
 MyReads é um aplicativo de estante que permite ao usuário selecionar e categorizar livros que leu, está lendo no momento ou deseja ler.
