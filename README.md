@@ -1,6 +1,6 @@
 # MyReads Project
 
-![Udacity React Nanodegree](https://github.com/georgebezerra/reactnd-project-myreads/blob/master/src/icons/udacity_reactnd.svg)
+![Udacity React Nanodegree](https://github.com/georgebezerra/reactnd-project-myreads/blob/master/src/icons/udacity_reactnd.svg)(https://www.udacity.com/course/react-nanodegree--nd019)
 
 
 Este projeto é a minha implementação do aplicativo MyReads, que é o projeto de avaliação final do curso Fundamentos de React da Udacity,
