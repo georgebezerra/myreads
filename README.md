@@ -6,7 +6,7 @@
 Este projeto é a minha implementação do aplicativo MyReads, que é o projeto de avaliação final do curso Fundamentos de React da Udacity,
 parte do Programa React Nanodegree.  
   
-  #Demo 
+  # Demo 
   
   Link: http://reactnd-project-myread.surge.sh/
 
